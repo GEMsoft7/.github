@@ -1,0 +1,46 @@
+name: Change Request
+description: Request a customer change
+title: "[CR]: "
+type: Change Request
+
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      value: |
+        ## Intervals Task Details
+        
+        Intervals Task URL:
+        Project:  
+        Module: 
+        Task Name:
+
+        ## Client Requirements
+        
+        ## P2W Solution Analysis
+        
+        ## Client P2W Process Impacts
+        
+        ## P2W Configuration Change Requirements
+
+        * Work Controls:
+        * Workflow:
+        * Roles:
+        * Sign-offs incl. Flex Data, Declarations
+        * Extra Info
+        * Print Template
+        * Rules
+        * Menus
+        * Registers
+        * Reports/Desktops/Dashboards
+
+        ## P2W Deployment: Process Requirements and Resources
+
+        * Facade:
+        * FlexiForms:
+        * Themes:
+        * SQL:
+        * Manual Step:
+        
+        ## Config Change Test Plan / Activities
