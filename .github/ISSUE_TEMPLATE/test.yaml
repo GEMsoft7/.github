@@ -1,1 +1,25 @@
+name: TEST
 
+description: Request a test change
+
+title: "[CR]: "
+
+type: TEST
+
+body:
+
+  - type: textarea
+
+    id: problem
+
+    attributes:
+
+      label: Problem
+
+      value: |
+
+        ## Background
+
+        ## Current Behaviour
+
+        ## Desired Behaviour
